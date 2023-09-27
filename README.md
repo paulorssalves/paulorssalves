@@ -24,4 +24,4 @@ I'm Paulo, a Psychologist situated in Brazil.
  
 I speak about philosophical and political issues within Psychology in [my YouTube channel](https://www.youtube.com/@paulorssalves) (in Portuguese).
 
-I mostly code for statistical data analysis, but now and then I write some things to help me with learning languages. I can also work my way around SCSS. Hugo's great, btw.
+I mostly code for statistical data analysis, but now and then I write some things to make language learning more convenient. I can also work my way around SCSS. Hugo's great, btw.
