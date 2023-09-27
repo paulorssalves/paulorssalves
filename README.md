@@ -10,7 +10,12 @@ I'm Paulo, a Psychologist situated in Brazil.
 
 - Publications:
   - [Time management: What do University Students Think About It?](https://www.researchgate.net/publication/372038295_Time_management_what_do_University_students_think_about_it)
-  - [Metodologia Qualitativa: Técnicas e Exemplos de Pesquisa](https://www.livrariadavila.com.br/metodologia-qualitativa--tecnicas-e-exemplos-de-pesquisa-821134/p) (Organized the book and authored a chapter with colleagues).
+  - [Metodologia Qualitativa: Técnicas e Exemplos de Pesquisa](https://www.livrariadavila.com.br/metodologia-qualitativa--tecnicas-e-exemplos-de-pesquisa-821134/p) (Portuguese)
+  - [Aprendendo a lidar com ansiedade no meio acadêmico](https://www.researchgate.net/publication/345311858_Aprendendo_a_lidar_com_a_Ansiedade_no_Ambiente_Academico) (Portuguese)
+  - [Gestão do tempo para estudantes universitários](https://www.researchgate.net/publication/347116474_Gestao_do_Tempo_para_Estudantes_Universitarios) (Portuguese)
+ 
+- Presentations:
+  - [Gestão do tempo para estudantes universitários](https://www.youtube.com/watch?v=tTk3imn5JQc) (Portuguese)
 
 - Interests:
   - Professional:  
