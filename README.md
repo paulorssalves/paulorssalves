@@ -15,7 +15,7 @@ I'm Paulo, a Psychologist situated in Brazil.
 - Interests:
   - Professional:  
     - Psychometrics
-    - Psychoanalysis
+    - Psychoanalysis (and its detractors, mostly Jung)
     - Time Management
   - Personal: 
     - Greek (☦️), Latin and Russian
