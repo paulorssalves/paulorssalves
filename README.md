@@ -21,11 +21,11 @@ I'm Paulo, a Psychologist situated in Brazil.
 - Interests:
   - Professional:  
     - Psychometrics
-    - Psychoanalysis (and its detractors, mostly Jung)
+    - Psychoanalysis (and its detractors, mostly Jung and Deleuze)
     - Time Management
   - Personal: 
     - Greek (☦️), Latin and Russian
-    - Computer programming (well versed in Python and R. One day I'll learn C and a Lisp.)
+    - Computer programming (well versed in Python and R. Maybe one day I'll learn C).
     - Linux (Debian, btw)
  
 I speak about philosophical and political issues within Psychology in [my YouTube channel](https://www.youtube.com/@paulorssalves) (in Portuguese).
